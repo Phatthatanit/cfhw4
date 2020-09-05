@@ -27,4 +27,5 @@ int main() {
 	num();
 	printf("\n");
 	triangle(y);
+	return 0;
 }
